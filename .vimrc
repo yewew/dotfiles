@@ -50,6 +50,7 @@ augroup filetype_vim
 augroup END
 " }}}
 " Mappings ---------- {{{
+nnoremap <leader>cv :vsplit ~/dotfiles/cheetsheets/vim.txt<cr>
 nnoremap <leader>ev :vsplit $MYVIMRC<cr>
 nnoremap <leader>sv :source $MYVIMRC<cr>
 nnoremap <leader>" viw<esc>a"<esc>bi"<esc>lel
