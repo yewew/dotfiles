@@ -1,3 +1,6 @@
 [submodule ".vim/pack/mypackage/start/mru.vim"]
 	path = .vim/pack/mypackage/start/mru.vim
 	url = https://github.com/vim-scripts/mru.vim
+[submodule ".vim/pack/mypackage/start/vim-commentary.vim"]
+	path = .vim/pack/mypackage/start/vim-commentary.vim
+	url = https://github.com/tpope/vim-commentary
